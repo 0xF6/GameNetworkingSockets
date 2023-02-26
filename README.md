@@ -2,6 +2,7 @@
 
 GameNetworkingSockets is a basic transport layer for games.  The features are:
 
+
 * Connection-oriented API (like TCP)
 * ... but message-oriented (like UDP), not stream-oriented.
 * Supports both reliable and unreliable message types
